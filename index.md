@@ -37,6 +37,9 @@ I used KNN to classify the tax class at time of sale and I ran a random forest m
 ## Machine Learning
 
 ### Multilayer Perceptron Neural Network for Classifying Coronavirus NLP Data
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/fordm02/corona-nlp-project/blob/main/Project.ipynb)
+
 Using Coronavirus tweets, I used a Mutlilayter Perceptron Neutral Network to perform sentiment analysis. [Github](https://github.com/fordm02/corona-nlp-project)
 
 <img src="images/corona-NLP.png?raw=true"/>
