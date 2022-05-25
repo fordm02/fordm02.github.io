@@ -1,11 +1,18 @@
-title: Morgan Ford # your name (or website title) here
+title: <p align="center"> Morgan Ford </p> # your name (or website title) here
 logo: "/images/1622692244801.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <p align="center">
+  <a href="pdf/Morgan Ford_resume_update_5.24.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/morgan-ford-7b994b160/">LinkedIn</a> |
+  <a href="https://github.com/fordm02">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am a recent graudate with a MS degree in Applied Mathematics at Rensselaer Polytechnic Institute.
   <br><br>
-  Second description 
+  I am currently a Graduate Student Researcher with the Rensselaer Institute for Data Exploration and Applications (IDEA).
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  </p>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-316782735 # your Google Analytics tracking ID here
