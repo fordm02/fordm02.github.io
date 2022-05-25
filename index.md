@@ -17,7 +17,7 @@ Eat4Genes is a prototype diet recommendation web app for patients, healthcare pr
 ### US Food Desert’s Demographics, Food Access, and Disease Prevalence
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/DataAnalytics_A6Poster_Morgan_Ford_6000.pdf)
 
-Using public source data, I examined the relationship between different variables across real world data from multiple sources. I created SVM, Linear Regression, KNN, and Random Forest models to predict trends in communities. [Github](https://github.com/fordm02/food-deserts)
+Using public source data, I examined the relationship between different variables across real world data from multiple sources. I created SVM, Linear Regression, KNN, and Random Forest models to predict trends in communities. [Github](https://github.com/fordm02/fooddeserts)
 
 <img src="images/fdrf.png?raw=true"/>
 
