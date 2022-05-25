@@ -21,6 +21,18 @@ Using public source data, I examined the relationship between different variable
 
 <img src="images/fdrf.png?raw=true"/>
 
+### Bank Interaction And Wine Quality Prediction Assignment
+
+[![Open Assignment Document](https://img.shields.io/badge/PDF-Open_Assignment_Document-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.rpi.edu/fordm2/DataAnalytics2022_MorganFord/blob/main/Assignment%207/DA_Assignment_7.pdf)
+
+Using KNN, SVM, and  Random Forest models, I predicted wine quality based on characteristics. I also predict bank transcation outcomes using previous interactions and other characteristics. [Github](https://github.rpi.edu/fordm2/DataAnalytics2022_MorganFord/tree/main/Assignment%207)
+
+### New York Housing Assignment 
+
+[![Open Assignment Document](https://img.shields.io/badge/PDF-Open_Assignment_Document-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.rpi.edu/fordm2/DataAnalytics2022_MorganFord/blob/main/Assignment%204/assignment4.pdf)
+
+I used KNN to classify the tax class at time of sale and I ran a random forest model to try to form a regression model for the price of the units. [Github](https://github.rpi.edu/fordm2/DataAnalytics2022_MorganFord/tree/main/Assignment%204)
+
 ---
 ## Machine Learning
 
