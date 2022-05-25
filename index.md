@@ -8,7 +8,7 @@
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fordm02/fordm02.github.io/blob/master/pdf/ACM-BCB_2022_paper_101.pdf)
 
-After my team preprepared a dataset from a list of studies curated by an expert biologist, I built an interactive user interace using R Shiny for users to find reccomended nutreints based on key gene expression. I also contributed to a paper that we submitted to ACM-BCB, which has not yet been accepted. [Github](https://github.rpi.edu/DataINCITE/Eat4Genes)
+After my team preprepared a dataset from a list of studies curated by an expert biologist, I built an interactive user interface using R Shiny for users to find reccomended nutreints based on key gene expression. I also contributed to a paper that we submitted to ACM-BCB, which has not yet been accepted. [Github](https://github.rpi.edu/DataINCITE/Eat4Genes)
 
 <img src="images/Eat4GenesAppFlow (1).png?raw=true"/>
 
